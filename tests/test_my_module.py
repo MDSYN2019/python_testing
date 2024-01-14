@@ -1,4 +1,4 @@
-from src.my_module import add
+from my_module import add
 
 
 def test_add():
