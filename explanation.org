@@ -1,0 +1,5 @@
+* Cpython
+
+CPython abstracts the complexities of the underlying C platform
+and your operating system.
+
