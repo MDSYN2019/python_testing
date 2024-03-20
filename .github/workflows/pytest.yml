@@ -1,9 +1,5 @@
 name: Run pytest
 
-on:
-  push:
-    branches:
-      - main
 jobs:
   test:
     runs-on: ubuntu-latest
